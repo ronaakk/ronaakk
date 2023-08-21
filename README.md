@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ronak Patel, and I'm a self-taught full-stack developer from Canada.
+My name is Ronak Patel, and I'm a self-taught full-stack developer from Toronto, Canada.
 
 ### 🌱 I’m currently learning 
 ![React](https://img.shields.io/badge/React-16.x-blue?style=for-the-badge&logo=react)
