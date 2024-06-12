@@ -6,7 +6,7 @@ My name is Ronak Patel, and I'm a self-taught full-stack developer from Toronto,
 ![React](https://img.shields.io/badge/React-16.x-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-14.x-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey?style=for-the-badge&logo=express)
-![Next.js](https://img.shields.io/badge/Next.js-12.x-black?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-14.x-black?style=for-the-badge&logo=next.js)
 
 ### 🌱 What I work with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
